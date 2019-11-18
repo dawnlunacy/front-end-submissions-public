@@ -21,3 +21,9 @@ For Example:
 * [Node Server Tutorial]()
 * [Promise Practice Exercises]()
 * [Web Scraping Workshop]()
+
+## Lacy Rudd
+
+* [Node Server Tutorial](https://github.com/dawnlunacy/message)
+* [Promise Practice Exercises](https://repl.it/@dawnlunacy/Promise-Practice-Mod-4-PreWork)
+* [Web Scraping Workshop](https://github.com/dawnlunacy/webscraping-workshop)
